@@ -1,0 +1,59 @@
+h5 {
+  color: #9ABFB2;
+  margin-top: derecha; }
+
+.thum {
+  width: 100%;
+  height: auto;
+  border: 1px solid #9ABFB2;
+  float: left; }
+
+.cuagris {
+  width: 90%;
+  height: 100px;
+  background-color: #D8D8D8;
+  float: left;
+  margin-left: 5%;
+  margin-top: 15%;
+  margin-bottom: 10%; }
+
+.cuagrisdos {
+  width: 100%;
+  height: 100px;
+  background-color: #D8D8D8;
+  float: left;
+  margin-left: 5%;
+  margin-top: 15%;
+  margin-bottom: 10%; }
+
+.chico {
+  font-size: 10px;
+  margin-top: 15%; }
+
+.fotochica {
+  border: 2px solid #fff;
+  margin-left: 20%;
+  margin-top: 20%;
+  -webkit-box-shadow: 0px 10px 35px -5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 10px 35px -5px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 10px 35px -5px rgba(0, 0, 0, 0.75); }
+
+.nombre {
+  font-size: 12px;
+  margin-left: 30%; }
+
+.noticia {
+  font-size: 14px;
+  color: #9ABFB2;
+  margin-left: 45%;
+  margin-top: 10%; }
+
+.abajo {
+  margin-top: 3%; }
+
+.tama {
+  height: 25px;
+  margin-left: 35%;
+  margin-top: 3%; }
+
+/*# sourceMappingURL=main.css.map */
